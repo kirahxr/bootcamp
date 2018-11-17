@@ -13,6 +13,6 @@ $yeah = array(
 
 );
 //$json = var_dump($yeah);
-$json = json_encode($yeah)
-;echo $json;
+$json = json_encode($yeah);
+echo $json;
 ?>
